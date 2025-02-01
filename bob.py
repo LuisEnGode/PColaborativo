@@ -1,2 +1,0 @@
-Bob agrega funcionalidad
-.
